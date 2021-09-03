@@ -1,5 +1,5 @@
 # Merhaba, ben Samet USTAOGLU! 
-<p align="left"> <img src="https://user-images.githubusercontent.com/46406037/131984913-5dd5b189-2e58-4931-b309-162467f13ecb.jpeg)" alt="SametUSTAOGLU" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1ldfckeZ1HAZLKxlzof5pyNCgc17S9vli/view?usp=sharing" alt="SametUSTAOGLU" /> </p>
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/mertcobanov)
