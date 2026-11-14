@@ -50,10 +50,3 @@
 </p>
 
 <p align="center"><sub>Click a badge to verify it on Credly.</sub></p>
-
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sametustaoglu/SametUSTAOGLU/output/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sametustaoglu/SametUSTAOGLU/output/snake.svg" />
-</picture>
