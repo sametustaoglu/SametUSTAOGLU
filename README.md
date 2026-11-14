@@ -3,7 +3,7 @@
 # Hi, I'm Samet 👋
 
 <a href="https://sametustaoglu.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Kubestronaut+%E2%98%B8%EF%B8%8F;AWS+%C2%B7+Google+Cloud+%C2%B7+Azure+%C2%B7+On-Prem;Infrastructure+as+Code+enthusiast" alt="DevOps & Cloud Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=600&lines=Cloud+Architect+%26+DevOps+Engineer;Kubestronaut+%E2%98%B8%EF%B8%8F;AWS+%C2%B7+Google+Cloud+%C2%B7+Azure+%C2%B7+On-Prem;Infrastructure+as+Code+enthusiast" alt="DevOps & Cloud Engineer" />
 </a>
 
 [![Website](https://img.shields.io/badge/sametustaoglu.com-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=3DDC97)](https://sametustaoglu.com)
@@ -17,15 +17,17 @@
 
 ### 🚀 About me
 
-- ☁️ I design, automate and operate **cloud & hybrid infrastructure** across **AWS**, **Google Cloud**, **Azure** and **on-premises**
+- ☁️ **Cloud Architect & DevOps Engineer** with **7+ years** across **AWS**, **Google Cloud**, **Azure** and **on-premises**
+- 💼 Currently **Senior Cloud & DevOps Engineer** at [Hepapi](https://hepapi.com) — RKE2/Rancher, GitOps with ArgoCD, Terraform & Terragrunt
 - ☸️ **Kubestronaut** — all five CNCF Kubernetes certifications (CKA · CKAD · CKS · KCNA · KCSA)
-- 🏗️ Infrastructure as Code with **Terraform** & **Terragrunt**, GitOps with **ArgoCD** & **Helm**
-- 🔭 **End-to-end observability** — monitoring, logging & tracing with **Prometheus**, **Grafana**, **Loki** & **OpenTelemetry**
+- 🔭 **End-to-end observability** — monitoring, logging & tracing with Prometheus, Grafana, Loki, ELK, Dynatrace & Elastic APM
+- 💸 Cut cloud spend from **$40K → $18K/month** with autoscaling, right-sizing and scheduling
+- ✈️ Former **instructor UAV pilot** in the Turkish Air Force
 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,linux,nginx,bash,python,git&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,kubernetes,docker,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,elasticsearch,linux,python&perline=8" alt="Tech stack" />
 </p>
 
 ### 🏅 Certifications
